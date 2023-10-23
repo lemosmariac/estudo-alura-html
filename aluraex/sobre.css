@@ -1,0 +1,106 @@
+body{
+    background-image: url(file/img/planos-background.png);
+    width: 940px;
+    margin-left: 20%;
+}
+h1{
+    text-align: center;
+}
+h2{
+    background-color: #E1EDF2;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #3D3D3D;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.mat figure{ 
+    width: 550px;
+    border-radius: 0%;
+    border: solid 1px rgb(148, 141, 141);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    margin-left: 20%;
+    background-color: whitesmoke;
+    text-align: center;
+    color: rgb(148, 141, 141);
+}
+
+figcaption{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tup figure{
+    height: 245px;
+    width: 275px;
+    border-radius: 0%;
+    border: solid 1px rgb(148, 141, 141);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    margin-left: 40%;
+    margin-top: 5px;
+    background-color: whitesmoke;
+    text-align: center;
+    color: rgb(148, 141, 141);
+    position: absolute;
+}
+
+.text{
+    width:64%;
+    position:relative;
+}
+
+
+h3{
+    background-color: #c6d8df;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #3D3D3D;
+}
+
+h4{
+    background-color: #b7c9d0;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #3D3D3D;
+}
+ul{
+    font-size: 20px;
+}
+a{
+    color: #3D3D3D;
+}
+
+h5{
+    background-color: #9babb2;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #3D3D3D;
+}
+.co h1{
+    text-align: left;
+}
+.co {
+    margin-left: 30px;
+    width: 500px;
+    display: inline-block;
+    text-align: left;
+
+}
+.te{
+    display: inline-block;
+    text-align: left;
+}
+.te h1{
+    text-align: left;
+}
